@@ -1,5 +1,3 @@
-"# Project-3 _ BankSystem-v0.1" 
-
 # 📦 Project-3: Bank System (v0.1)
 
 A console-based Bank System developed in C++, offering a simple and robust interface to manage client accounts. The application provides essential operations such as adding, deleting, updating, and viewing client data, with persistent storage to ensure data is saved between sessions.
